@@ -1,0 +1,9 @@
+﻿attribute,value,level
+price,10,high
+price,20,low
+fuelEconomy,15,low
+fuelEconomy,25,high
+accelTime,6,high
+accelTime,10,low
+powertrain_elec,1,low
+powertrain_elec,0,high
